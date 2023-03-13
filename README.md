@@ -1,4 +1,4 @@
-# ExoCalc
+# Calculator
 A simple calculator using tkinter for GUI.
 
 # How to run the calculator?
